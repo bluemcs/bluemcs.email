@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbluemcs_email=self.webpackChunkbluemcs_email||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/bluemcs.email/blog","blogTitle":"Blog"}')}}]);
